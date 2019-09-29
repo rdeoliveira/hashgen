@@ -1,0 +1,92 @@
+# Additional strings to ignore that are not in NLTK's built-in stopword list. Case insensitive. No punctuation.
+
+# fragments
+ca
+doe
+ha
+nt
+u
+wa
+
+# auxiliaries
+could
+may
+must
+would
+
+# adverbs
+ago
+ahead
+always
+away
+back
+else
+even
+finally
+never
+still
+well
+
+# quantifiers (or similar)
+also
+enough
+every
+many
+million
+much
+one
+other
+others
+two
+
+# verbs (lemmas only, as the system lemmatises verbs and nouns)
+ask
+become
+bring
+call
+come
+do
+find
+get
+give
+go
+know
+let
+like
+look
+lose
+make
+mean
+need
+say
+see
+take
+tell
+think
+turn
+use
+want
+
+# adjectives
+able
+best
+better
+first
+good
+great
+hard
+last
+long
+longer
+next
+new
+
+# prepositions
+across
+around
+without
+
+# nouns (lemmas only, as the system lemmatises verbs and nouns)
+day
+way
+thing
